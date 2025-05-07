@@ -432,7 +432,7 @@
           <mxGeometry x="1245" y="2941" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-99" value="接收端信号" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="3070" width="140" height="49" as="geometry" />
+          <mxGeometry x="1245" y="3080" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-100" value="OFDM解调与均衡" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
           <mxGeometry x="1011" y="3070" width="180" height="49" as="geometry" />
