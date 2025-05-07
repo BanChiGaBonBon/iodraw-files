@@ -223,8 +223,10 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-46" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="331" y="1602" width="480" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-47" target="79kRY2lp3SCRlMzGoqBw-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="2200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-147" value="资源块分配" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79kRY2lp3SCRlMzGoqBw-146">
           <mxGeometry x="-0.0509" y="5" relative="1" as="geometry">
@@ -232,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-47" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="47" y="2130" width="233" height="412" as="geometry" />
+          <mxGeometry x="39.5" y="2130" width="233" height="412" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-48" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="1602" width="232" height="489" as="geometry" />
