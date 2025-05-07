@@ -561,9 +561,6 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-105" value="无线信道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1450" y="2941" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-209" value="&lt;p&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;语义编码器&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="731" y="2810" width="80" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
