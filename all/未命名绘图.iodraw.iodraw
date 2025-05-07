@@ -561,6 +561,14 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-105" value="无线信道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1450" y="2941" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-209">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="2875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-209" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;语义编码器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2860" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
