@@ -437,11 +437,14 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-100" value="OFDM解调与均衡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1855" y="2941" width="180" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-101" target="79kRY2lp3SCRlMzGoqBw-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-101" value="语义星座点逆映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2086" y="2941" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-102" value="U-Net语义噪声矫正模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2324" y="2941" width="230" height="49" as="geometry" />
+          <mxGeometry x="2320" y="2941" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-103" value="语义解码重构模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2603" y="2941" width="188" height="49" as="geometry" />
