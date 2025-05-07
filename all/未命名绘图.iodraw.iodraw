@@ -251,7 +251,7 @@
           <mxGeometry x="115" y="2360" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-56" value="DCI广播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="124.5" y="2528" width="116" height="49" as="geometry" />
+          <mxGeometry x="125" y="2480" width="116" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-57" value="SIP编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="396" y="1941" width="113" height="49" as="geometry" />
@@ -311,9 +311,7 @@
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-54" target="79kRY2lp3SCRlMzGoqBw-55">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="183" y="2340" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-75" value="提供模型" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-52" target="79kRY2lp3SCRlMzGoqBw-57">
@@ -324,9 +322,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-76" value="确定资源比例" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1;entryX=0.65;entryY=0.01;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-55" target="79kRY2lp3SCRlMzGoqBw-56">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-76" value="确定资源比例" style="curved=1;startArrow=none;endArrow=block;entryX=0.65;entryY=0.01;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-55" target="79kRY2lp3SCRlMzGoqBw-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="210" y="2409" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-58" target="79kRY2lp3SCRlMzGoqBw-59">
