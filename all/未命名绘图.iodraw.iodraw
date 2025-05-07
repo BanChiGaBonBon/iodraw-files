@@ -507,9 +507,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-117" value="信道状态信息SNR" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.435;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-105" target="79kRY2lp3SCRlMzGoqBw-96">
-          <mxGeometry x="-0.0016" relative="1" as="geometry">
+          <mxGeometry x="0.0022" y="-18" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1080" y="2910" />
+              <mxPoint x="1250" y="2920" />
               <mxPoint x="990" y="2920" />
             </Array>
             <mxPoint x="760" y="2870" as="sourcePoint" />
