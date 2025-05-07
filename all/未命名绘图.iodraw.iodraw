@@ -478,7 +478,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-105" target="79kRY2lp3SCRlMzGoqBw-99">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-105" target="79kRY2lp3SCRlMzGoqBw-99">
           <mxGeometry x="-0.0052" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
