@@ -234,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-47" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="39.5" y="2130" width="230.5" height="412" as="geometry" />
+          <mxGeometry x="50" y="2130" width="220" height="412" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-48" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="1602" width="232" height="489" as="geometry" />
@@ -252,16 +252,16 @@
           <mxGeometry x="93" y="1982" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-53" value="业务上下文预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="84" y="2155" width="172" height="49" as="geometry" />
+          <mxGeometry x="74" y="2155" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-54" value="任务优先级计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="84" y="2253" width="172" height="49" as="geometry" />
+          <mxGeometry x="74" y="2253" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-55" value="资源弹性划分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="92" y="2352" width="156" height="49" as="geometry" />
+          <mxGeometry x="82" y="2352" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-56" value="DCI广播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="112" y="2462" width="116" height="49" as="geometry" />
+          <mxGeometry x="102" y="2462" width="116" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-57" value="SIP编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="396" y="1941" width="113" height="49" as="geometry" />
