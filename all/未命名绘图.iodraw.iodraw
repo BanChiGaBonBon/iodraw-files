@@ -217,7 +217,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-45" value="接收端流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-45" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="347" y="2262" width="440" height="343" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-46" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -545,7 +545,7 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-141" value="资源调度过程" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="104.5" y="2100" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-142" value="资源调度过程" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-142" value="接收端流程" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="475" y="2232" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
