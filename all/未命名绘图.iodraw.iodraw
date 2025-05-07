@@ -447,10 +447,10 @@
           <mxGeometry x="454" y="3070" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-103" value="语义解码重构模块" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="216" y="3070" width="188" height="49" as="geometry" />
+          <mxGeometry x="238" y="3070" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-104" value="重建数据输出" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="34" y="3070" width="156" height="49" as="geometry" />
+          <mxGeometry x="38.5" y="3070" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-93" target="79kRY2lp3SCRlMzGoqBw-94">
           <mxGeometry relative="1" as="geometry">
