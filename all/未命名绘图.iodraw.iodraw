@@ -449,9 +449,6 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-104" value="重建数据输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2841" y="2941" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-105" value="无线信道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="441" y="3061" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-93" target="79kRY2lp3SCRlMzGoqBw-94">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -479,7 +476,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-111" value="无线信道（含噪声干扰）" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-98" target="79kRY2lp3SCRlMzGoqBw-99">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-111" value="无线信道（含噪声干扰）" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-105" target="79kRY2lp3SCRlMzGoqBw-99">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -509,11 +506,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-117" value="信道状态信息SNR" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.81;exitY=-0.01;entryX=0;entryY=0.66;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-105" target="79kRY2lp3SCRlMzGoqBw-96">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-117" value="信道状态信息SNR" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;entryX=0;entryY=0.66;rounded=0;" edge="1" parent="1" target="79kRY2lp3SCRlMzGoqBw-96">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="2981" />
             </Array>
+            <mxPoint x="760" y="2870" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -547,6 +545,16 @@
             <mxPoint x="168" y="2309" as="sourcePoint" />
             <mxPoint x="170" y="2336" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-203" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-98" target="79kRY2lp3SCRlMzGoqBw-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1385" y="2965" as="sourcePoint" />
+            <mxPoint x="1665" y="2965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-105" value="无线信道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="2950" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
