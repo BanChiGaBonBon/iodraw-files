@@ -248,7 +248,7 @@
           <mxGeometry x="107" y="2261" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-55" value="资源弹性划分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="104.5" y="2407" width="156" height="49" as="geometry" />
+          <mxGeometry x="104.5" y="2360" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-56" value="DCI广播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="124.5" y="2528" width="116" height="49" as="geometry" />
@@ -312,7 +312,7 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-54" target="79kRY2lp3SCRlMzGoqBw-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130.5" y="2371" />
+              <mxPoint x="180" y="2370" />
             </Array>
           </mxGeometry>
         </mxCell>
