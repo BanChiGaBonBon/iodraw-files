@@ -478,14 +478,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.985;entryY=0.559;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-105" target="79kRY2lp3SCRlMzGoqBw-99">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-105">
           <mxGeometry x="-0.0052" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-215" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79kRY2lp3SCRlMzGoqBw-111">
-          <mxGeometry x="0.2194" y="1" relative="1" as="geometry">
+            <mxPoint x="1380" y="3095" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
