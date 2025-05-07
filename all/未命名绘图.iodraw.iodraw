@@ -223,7 +223,7 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-46" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="331" y="1602" width="480" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-47" value="资源调度过程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-47" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="9.5" y="2138" width="307" height="464" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-48" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -542,7 +542,7 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-140" value="语义模型管理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="111" y="1570" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-141" value="语义模型管理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-141" value="资源调度过程" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="104.5" y="2100" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
