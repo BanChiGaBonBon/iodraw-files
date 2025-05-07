@@ -267,7 +267,7 @@
           <mxGeometry x="396" y="1941" width="113" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-58" value="数据输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="603" y="1627" width="124" height="49" as="geometry" />
+          <mxGeometry x="516" y="1620" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-59" value="语义业务?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="517" y="1731" width="118" height="118" as="geometry" />
@@ -340,11 +340,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-78" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.83;entryY=0.01;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-59" target="79kRY2lp3SCRlMzGoqBw-57">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0006" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="547" y="1869" />
-              <mxPoint x="547" y="1905" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-57" target="79kRY2lp3SCRlMzGoqBw-60">
