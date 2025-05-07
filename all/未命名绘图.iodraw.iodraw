@@ -435,13 +435,13 @@
           <mxGeometry x="1241" y="3070" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-100" value="OFDM解调与均衡" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="365" y="3205" width="180" height="49" as="geometry" />
+          <mxGeometry x="1011" y="3060" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-101" target="79kRY2lp3SCRlMzGoqBw-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-101" value="语义星座点逆映射" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="596" y="3205" width="188" height="49" as="geometry" />
+          <mxGeometry x="763.5" y="3060" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-102" value="U-Net语义噪声矫正模块" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
           <mxGeometry x="830" y="3205" width="234" height="49" as="geometry" />
