@@ -410,7 +410,7 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-91" value="" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
           <mxGeometry x="24" y="3050" width="1382" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-92" value="语义编码器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-92" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="2890" width="1390" height="136" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-93" value="输入数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
