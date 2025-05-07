@@ -510,10 +510,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-117" value="信道状态信息SNR" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.81;exitY=-0.01;entryX=0;entryY=0.66;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-105" target="79kRY2lp3SCRlMzGoqBw-96">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0016" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="2981" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-139" value="数据传输流程" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
