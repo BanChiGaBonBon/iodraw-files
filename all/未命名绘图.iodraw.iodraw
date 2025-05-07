@@ -270,7 +270,7 @@
           <mxGeometry x="603" y="1627" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-59" value="语义业务?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="606" y="1726" width="118" height="118" as="geometry" />
+          <mxGeometry x="517" y="1731" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-60" value="语义资源块调制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="366" y="2040" width="172" height="49" as="geometry" />
