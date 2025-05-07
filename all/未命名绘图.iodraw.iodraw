@@ -251,8 +251,11 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-52" value="模型库更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="93" y="1982" width="140" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-53" target="79kRY2lp3SCRlMzGoqBw-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-53" value="业务上下文预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="74" y="2180" width="172" height="49" as="geometry" />
+          <mxGeometry x="72" y="2250" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-54" value="任务优先级计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="74" y="2325.5" width="172" height="49" as="geometry" />
@@ -314,9 +317,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-53" target="79kRY2lp3SCRlMzGoqBw-54">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-72" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="79kRY2lp3SCRlMzGoqBw-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="158" y="2299" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-54" target="79kRY2lp3SCRlMzGoqBw-55">
@@ -533,7 +537,7 @@
           <mxGeometry x="475" y="2232" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-148" value="业务上下文预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-172" y="2155" width="172" height="49" as="geometry" />
+          <mxGeometry x="72" y="2163" width="172" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
