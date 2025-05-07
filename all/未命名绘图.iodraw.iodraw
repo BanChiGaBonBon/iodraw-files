@@ -561,8 +561,8 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-105" value="无线信道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1450" y="2941" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-209" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;语义编码器&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="683.5" y="2840" width="80" height="40" as="geometry" />
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-209" value="&lt;p&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;语义编码器&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="683.5" y="2825" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
