@@ -263,7 +263,7 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-55" value="资源弹性划分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="82" y="2400" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-56" value="DCI广播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-56" value="下发调度方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="102" y="2490" width="116" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-57" value="SIP编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
