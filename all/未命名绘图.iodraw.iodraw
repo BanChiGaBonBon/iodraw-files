@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gQwqNF_7oGmPtZhV_gxS">
-    <mxGraphModel dx="3463" dy="2511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2584" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,7 +408,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-91" value="" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="150" y="3170" width="1382" height="119" as="geometry" />
+          <mxGeometry x="24" y="3050" width="1382" height="119" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-92" value="语义编码器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="2890" width="1390" height="136" as="geometry" />
@@ -420,7 +420,7 @@
           <mxGeometry x="219" y="2925" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-95" value="特征优化模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="425" y="2925" width="156" height="49" as="geometry" />
+          <mxGeometry x="461" y="2933.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-96" value="SNR自适应编码模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="758" y="2941" width="199" height="49" as="geometry" />
