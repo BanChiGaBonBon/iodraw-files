@@ -506,9 +506,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-117" value="信道状态信息SNR" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;entryX=0;entryY=0.66;rounded=0;exitX=0.435;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-105" target="79kRY2lp3SCRlMzGoqBw-96">
+        <mxCell id="79kRY2lp3SCRlMzGoqBw-117" value="信道状态信息SNR" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.435;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-105" target="79kRY2lp3SCRlMzGoqBw-96">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1070" y="2890" />
               <mxPoint x="670" y="2981" />
             </Array>
             <mxPoint x="760" y="2870" as="sourcePoint" />
