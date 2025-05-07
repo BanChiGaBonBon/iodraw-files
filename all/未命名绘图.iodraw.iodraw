@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gQwqNF_7oGmPtZhV_gxS">
-    <mxGraphModel dx="1925" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1925" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,7 +224,7 @@
           <mxGeometry x="331" y="1602" width="480" height="610" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-47" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="9.5" y="2138" width="307" height="464" as="geometry" />
+          <mxGeometry x="70" y="2138" width="246.5" height="464" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-48" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="1602" width="232" height="489" as="geometry" />
@@ -251,7 +251,7 @@
           <mxGeometry x="115" y="2360" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-56" value="DCI广播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="125" y="2480" width="116" height="49" as="geometry" />
+          <mxGeometry x="135" y="2470" width="116" height="49" as="geometry" />
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-57" value="SIP编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="396" y="1941" width="113" height="49" as="geometry" />
@@ -399,14 +399,6 @@
         <mxCell id="79kRY2lp3SCRlMzGoqBw-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-66" target="79kRY2lp3SCRlMzGoqBw-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="79kRY2lp3SCRlMzGoqBw-89" value="反馈QoS" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.954;entryY=0.959;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="79kRY2lp3SCRlMzGoqBw-67" target="79kRY2lp3SCRlMzGoqBw-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="464" y="2605" />
-              <mxPoint x="193" y="2641" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="79kRY2lp3SCRlMzGoqBw-91" value="语义解码器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
